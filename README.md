@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RawlinStone
 - 👀 I’m interested in video game development
 - 🌱 I’m currently learning piano and music composition
-- 💞️ I’m looking to collaborate on <redacted>
+- 💞️ Feel free to check me out on https://rawlinstone.itch.io/
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/rawlin-stone-10388420b/
 
 <!---
